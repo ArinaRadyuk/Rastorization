@@ -3,10 +3,8 @@
 
 ```sh
 pip install tkinter
-pip install pillow
-pip install opencv-python
-pip install mahotas
-pip install numpy
+pip install time
+pip install matplotlib
 ```
 
 ## Usage
