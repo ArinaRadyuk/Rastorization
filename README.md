@@ -1,4 +1,20 @@
 # Rastorization
+## Installation
+
+```sh
+pip install tkinter
+pip install pillow
+pip install opencv-python
+pip install mahotas
+pip install numpy
+```
+
+## Usage
+```sh
+python3 main.py
+```
+Or use run .exe file (installation: https://habr.com/ru/company/vdsina/blog/557316/).
+
 ## Step by step algorithm
 Gradually increasing the x coordinate, calculating the y=kx+b coordinate and then rounding the result to an integer.
 ## Digital differential analyzer 
